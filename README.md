@@ -1,4 +1,5 @@
 # BuyRight <br>
+## Online Grocery Shop developed using modern practices with HTML, CSS and Vanilla JS. <br>
 An online grocery shop with the clean user-friendly UI and comparsion
 options for customers. <br>
 Login option is also present for both consumers and sellers.<br>
