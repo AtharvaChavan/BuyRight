@@ -6,7 +6,7 @@ Login option is also present for both consumers and sellers.<br>
 Cart of every user is enabled using JavaScript.<br>
 Special features like 360° Picture
 <br><a href="http://buyright.ml/">buyright.ml</a><br>
-<br> OR <br> <a href="atharvachavan.github.io/BuyRight">atharvachavan.github.io/BuyRight</a>/ {will redirect}
+<br> OR <br> [atharvachavan.github.io/BuyRight/ ](https://atharvachavan.github.io/BuyRight/){will redirect}
 
 
 ![image](https://user-images.githubusercontent.com/35627981/117299721-7c612200-ae96-11eb-8bf5-1bdbd3cb6701.png)
